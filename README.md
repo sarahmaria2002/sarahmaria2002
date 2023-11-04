@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sarahmaria2002
-- 👀 I’m interested in Coding and mobile app development.
-- 🌱 I’m currently learning Bachelor of Computer Applications from SICSR,Pune.
 - 📫 You can reach me through my mail:
 sarahmariatoms@gmail.com
 
