@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sarah Maria Toms, a Master of Computer Applications student at Vellore Institute of Technology, Chennai. With a strong focus on software development, I've worked on diverse projects. I have experience in Android development, machine learning, and data analysis, and I’m passionate about creating innovative solutions to complex problems.<br><br>When I'm not coding, you might find me exploring new technologies, contributing to open-source projects, or enjoying a good book. I'm always eager to collaborate on exciting projects and learn from the vibrant tech community.<br><br>Feel free to check out my repositories and connect with me!<br><br>
+Hello! I'm Sarah Maria Toms, a Master of Computer Applications student at Vellore Institute of Technology, Chennai. With a strong focus on software development, I've worked on diverse projects. I have experience in Android development, machine learning, and data analysis, and I’m passionate about creating innovative solutions to complex problems.<br><br>When I'm not coding, you might find me exploring new technologies, maybe binge watching some Anime or Netflix content, or enjoying a good book. I'm always eager to collaborate on exciting projects and learn from the vibrant tech community.<br><br>Feel free to check out my repositories and connect with me!<br><br>
 
 
 ## 🌐 Socials:
